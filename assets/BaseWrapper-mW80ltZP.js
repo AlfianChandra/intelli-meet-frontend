@@ -1,0 +1,1 @@
+import{_ as s,c as r,y as a,o}from"./index-Drj_95ab.js";const t={},c={class:"base-wrapper"};function n(e,_){return o(),r("div",c,[a(e.$slots,"default",{},void 0,!0)])}const p=s(t,[["render",n],["__scopeId","data-v-19a9d75f"]]);export{p as B};
