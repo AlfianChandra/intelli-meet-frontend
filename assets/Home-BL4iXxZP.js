@@ -1,1 +1,0 @@
-import{C as t}from"./ContentWrapper-CGl6BHVx.js";import{h as e}from"./moment-C5S46NFB.js";import{d as r,A as o,n as a,o as n}from"./index-i551c2DS.js";const _=r({__name:"Home",setup(s){return o(),o(e().format("MM/DD/YYYY")),(m,p)=>(n(),a(t,{contentTitle:"Dasbor","hint-icon":"star"}))}});export{_ as default};

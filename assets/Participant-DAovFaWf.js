@@ -1,1 +1,0 @@
-import{C as e}from"./ContentWrapper-CGl6BHVx.js";import{F as a}from"./FloatingButton-CS17LY3t.js";import{d as n,c as o,p as t,F as r,o as p}from"./index-i551c2DS.js";const f=n({__name:"Participant",setup(s){return(c,i)=>(p(),o(r,null,[t(e,{contentTitle:"Partisipan","hint-icon":"star"}),t(a)],64))}});export{f as default};
